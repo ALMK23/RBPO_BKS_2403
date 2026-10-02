@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 24069
+
+server:
+  port: 24069
